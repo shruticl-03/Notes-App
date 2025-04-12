@@ -26,6 +26,8 @@ LocalStorage API
 📸 Preview
 ![Screenshot](https://github.com/user-attachments/assets/898b4eaf-bc82-46f3-bc8f-1cbc0b600bb3)
 
+To Run the Project: https://notesapp-shruti.netlify.app/
+
 📁 Getting Started
 Clone the repository
 
